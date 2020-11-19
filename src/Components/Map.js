@@ -24,11 +24,11 @@ class Map extends Component {
           height: "40vh",
           width: "420px",
           marginLeft: "50px",
-          paddingBottom: "30",
+          paddingBottom: "30px",
         }}
       >
         <GoogleMapReact
-          bootstrapURLKeys={{ key: "AIzaSyDO4_O1UDOeMQ9P5CvydjO_Rmv8yFdMV2E" }}
+          bootstrapURLKeys={{ key: "AIzaSyD6VnBTdxR-tgn6yan3fgFQ_HBAVb5hLSI" }}
           defaultCenter={defaultProps.center}
           defaultZoom={defaultProps.zoom}
         >
