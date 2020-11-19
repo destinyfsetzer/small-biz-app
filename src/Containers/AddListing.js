@@ -1,6 +1,6 @@
 import { connect } from "react-redux";
 import AddListing from "../Components/AddListing";
-import { addBizz } from "../redux/actions";
+import { addBizz } from "../Redux/actions";
 
 const mapStateToProps = (state) => {
   return {
